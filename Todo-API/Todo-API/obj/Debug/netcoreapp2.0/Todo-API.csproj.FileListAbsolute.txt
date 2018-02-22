@@ -1,0 +1,11 @@
+D:\Workspace\Basic .Net Core\Todo-API\Todo-API\bin\Debug\netcoreapp2.0\Todo-API.deps.json
+D:\Workspace\Basic .Net Core\Todo-API\Todo-API\bin\Debug\netcoreapp2.0\Todo-API.runtimeconfig.json
+D:\Workspace\Basic .Net Core\Todo-API\Todo-API\bin\Debug\netcoreapp2.0\Todo-API.runtimeconfig.dev.json
+D:\Workspace\Basic .Net Core\Todo-API\Todo-API\bin\Debug\netcoreapp2.0\Todo-API.dll
+D:\Workspace\Basic .Net Core\Todo-API\Todo-API\bin\Debug\netcoreapp2.0\Todo-API.pdb
+D:\Workspace\Basic .Net Core\Todo-API\Todo-API\obj\Debug\netcoreapp2.0\Todo-API.csprojResolveAssemblyReference.cache
+D:\Workspace\Basic .Net Core\Todo-API\Todo-API\obj\Debug\netcoreapp2.0\Todo-API.csproj.CoreCompileInputs.cache
+D:\Workspace\Basic .Net Core\Todo-API\Todo-API\obj\Debug\netcoreapp2.0\Todo-API.AssemblyInfoInputs.cache
+D:\Workspace\Basic .Net Core\Todo-API\Todo-API\obj\Debug\netcoreapp2.0\Todo-API.AssemblyInfo.cs
+D:\Workspace\Basic .Net Core\Todo-API\Todo-API\obj\Debug\netcoreapp2.0\Todo-API.dll
+D:\Workspace\Basic .Net Core\Todo-API\Todo-API\obj\Debug\netcoreapp2.0\Todo-API.pdb
